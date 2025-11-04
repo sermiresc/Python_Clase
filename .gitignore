@@ -1,0 +1,9 @@
+# Ingorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+
+# Ignorar archivos de registro y temporales
+*.log
+*.tmp
+
